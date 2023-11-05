@@ -1,8 +1,11 @@
 <!-- Header -->
-<h1 align="center">Hi there!👋🏻 I'm Claudia.</h1>
+<div id="header" align="center">
+  <h1>Hi there!👋🏻 I'm Claudia.</h1>
+</div>
 <br>
 
 <!-- Body -->
+<body>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9mdW05ZXI4OXRuZm02dWdlMmRocDcwanFwdWcxM29wajJianhqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="400"/>
 <h3>I'm a self-taught individual venturing into the world of development, driven by my passion for technology and an insatiable curiosity.</h3>
 <h4>- 🔭 I’m currently working on developing new skills.</h4>	  
@@ -10,7 +13,6 @@
 <br>
 <div>
   <h4>🛠️ Languages and Tools I Have Used and Learned:</h4>
-  <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
@@ -27,3 +29,5 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api/?username=diaechi&&theme=chartreuse-dark&show_icons=true&rank_icon=github&border_radius=4.5)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=diaechi&langs_count=10&theme=chartreuse-dark&layout=compact&border_radius=4.5)
+
+</body>
