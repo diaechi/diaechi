@@ -1,19 +1,6 @@
-<!---
-- 👋 Hi, I’m @diaechi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-diaechi/diaechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <!-- Header -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM5cmU3Mzd6YnA4d2FsYW9kdjV3dnUwZGZucW05MHdtcWxxb2YwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
-  <h1>Hi there!👋🏻 I'm Claudia.</h1>
-</div>
+<h1 align="center">Hi there!👋🏻 I'm Claudia.</h1>
+<br>
 
 <!-- Body -->
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9mdW05ZXI4OXRuZm02dWdlMmRocDcwanFwdWcxM29wajJianhqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="400"/>
@@ -38,6 +25,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br><br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=diaechi&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diaechi&langs_count=5&theme=tokyonight)]()
-
+![My Stats](https://github-readme-stats.vercel.app/api/?username=diaechi&&theme=chartreuse-dark&show_icons=true&rank_icon=github&border_radius=4.5)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=diaechi&langs_count=10&theme=chartreuse-dark&layout=compact&border_radius=4.5)
