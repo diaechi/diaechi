@@ -7,7 +7,7 @@
 <!-- Body -->
 <body>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9mdW05ZXI4OXRuZm02dWdlMmRocDcwanFwdWcxM29wajJianhqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="400"/>
-<h3>I'm a self-taught individual venturing into the world of development, driven by my passion for technology and an insatiable curiosity.</h3>
+<h3>I'm venturing into the world of development, driven by my passion for technology and an insatiable curiosity.</h3>
 <h4>- 🔭 I’m currently working on developing new skills.</h4>	  
 <h4>- 👯 I’m looking to collaborate on projects.</h4>
 <br>
